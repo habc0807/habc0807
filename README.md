@@ -1,10 +1,3 @@
-# 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Xiaoxiao You
-
-[![](https://img.shields.io/badge/-@habc0807-%23181717?style=flat-square&logo=github)](https://github.com/habc0807)
-[![](https://img.shields.io/badge/-@habc0807-%23000000?style=flat-square&logo=codepen)](https://codepen.io/habc0807)
-[![](https://img.shields.io/badge/-@habc0807-%23000000?style=flat-square&logo=codesandbox)](https://codesandbox.io/u/habc0807)
-
-
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
