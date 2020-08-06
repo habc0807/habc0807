@@ -10,7 +10,3 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
 
-
-## 𝗦𝘁𝗮𝘁𝘀
-
-![habc0807's github stats](https://github-readme-stats.vercel.app/api?username=habc0807&show_icons=true&theme=dracula)
