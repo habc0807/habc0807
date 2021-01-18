@@ -10,6 +10,6 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%23E44D27?style=flat-square&logo=TypeScript&logoColor=ffffff)
-![Node](https://img.shields.io/badge/-Node-%23F7DF1C?style=flat-square&logo=node&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![Node](https://img.shields.io/badge/-Node.js-%232c3e50?style=flat-square&logo=Node.js)
 
 
